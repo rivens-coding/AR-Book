@@ -1,0 +1,11 @@
+Model Information:
+* title:	Arria et Pætus - Louvre Museum
+* source:	https://sketchfab.com/3d-models/arria-et-ptus-louvre-museum-e5dc1871b7654429b883b9e04c8418c4
+* author:	Benjamin Bardou (https://sketchfab.com/meryon)
+
+Model License:
+* license type:	CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
+* requirements:	Author must be credited. Commercial use is allowed.
+
+If you use this 3D model in your project be sure to copy paste this credit wherever you share it:
+This work is based on "Arria et Pætus - Louvre Museum" (https://sketchfab.com/3d-models/arria-et-ptus-louvre-museum-e5dc1871b7654429b883b9e04c8418c4) by Benjamin Bardou (https://sketchfab.com/meryon) licensed under CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)

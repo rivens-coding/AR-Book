@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<QCARConfig>
+  <Tracking>
+    <ImageTarget name="snufftin" size="6.000000 8.569037" />
+    <ImageTarget name="louvre" size="6.000000 7.987500" />
+    <ImageTarget name="1931" size="6.000000 8.333333" />
+    <ImageTarget name="republic" size="6.000000 4.493671" />
+    <ImageTarget name="kokura" size="6.000000 3.990000" />
+    <ImageTarget name="mexico" size="6.000000 3.982500" />
+    <ImageTarget name="la" size="6.000000 3.375000" />
+    <ImageTarget name="castle-of-loarre" size="6.000000 3.246465" />
+    <ImageTarget name="fire-tornado" size="6.000000 10.657895" />
+    <ImageTarget name="chimcut" size="6.000000 3.375000" />
+    <ImageTarget name="boombox" size="6.000000 6.000000" />
+    <ImageTarget name="cloud-station" size="6.000000 7.500000" />
+  </Tracking>
+</QCARConfig>

@@ -1,0 +1,11 @@
+Model Information:
+* title:	La Motilla del Azuer - Daimiel, Spain
+* source:	https://sketchfab.com/3d-models/la-motilla-del-azuer-daimiel-spain-750c1dc950274be39705545f4a492bd9
+* author:	Global Digital Heritage (https://sketchfab.com/GlobalDigitalHeritage)
+
+Model License:
+* license type:	CC-BY-NC-4.0 (http://creativecommons.org/licenses/by-nc/4.0/)
+* requirements:	Author must be credited. No commercial use.
+
+If you use this 3D model in your project be sure to copy paste this credit wherever you share it:
+This work is based on "La Motilla del Azuer - Daimiel, Spain" (https://sketchfab.com/3d-models/la-motilla-del-azuer-daimiel-spain-750c1dc950274be39705545f4a492bd9) by Global Digital Heritage (https://sketchfab.com/GlobalDigitalHeritage) licensed under CC-BY-NC-4.0 (http://creativecommons.org/licenses/by-nc/4.0/)
